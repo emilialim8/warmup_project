@@ -4,4 +4,4 @@ This code allows the robot to drive in a square. The robot first goes straight f
 
 In the initialization function, I subscribe to the /cmd_vel topic. In the run function, I set two possible velocity values that allow the robot to either turn or go straight. Then in a while loop, I have the robot alternate between going straight and turning. The proper velocity is published at a rate of 2 Hz and is published 4 times before switching, resulting in 2 seconds of each behavior.
 
-!drive_square.gif
+![drive square](gifs/drive_square.gif)
