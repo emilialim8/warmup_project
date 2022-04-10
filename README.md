@@ -10,8 +10,8 @@ In the initialization function, I subscribe to the /cmd_vel topic. In the run fu
 ## Person Follower
 challenging to go on 
 
-![person follower]https://github.com/emilialim8/warmup_project/blob/d0a6f20ffa07e21bbb0510cbe827e35395af63c2/person_follower.gif
+![person follower](https://github.com/emilialim8/warmup_project/blob/d0a6f20ffa07e21bbb0510cbe827e35395af63c2/person_follower.gif)
 
 ## Wall Follower
 
-![wall follower]https://github.com/emilialim8/warmup_project/blob/d0a6f20ffa07e21bbb0510cbe827e35395af63c2/wall_follower.gif
+![wall follower](https://github.com/emilialim8/warmup_project/blob/d0a6f20ffa07e21bbb0510cbe827e35395af63c2/wall_follower.gif)
